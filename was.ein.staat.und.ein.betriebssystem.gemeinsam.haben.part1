@@ -1,0 +1,64 @@
+declaration at all: not want to disgust, to harm, to stress or to annoy anyone
+declaration of intention1: giving a comparisional view on mechanisms working within both structures
+declaration of intention1: informing people from tech-based interest spheres about active functional mechanisms
+declaration of language: german, because it is in fact easier for me to write it down in my second and best learned language
+
+1.start: why, why, why?
+
+Warum aus meiner Sicht ein Staat und ein Betriebssystem wirklich viel gemeinsam haben
+-und was man daraus machen kann ()
+
+Im Zuge meiner vielen Aktivitäten bin ich häufig ermuntert worden, Analogien für Dinge aus der IT aus anderen Lebensbereichen
+zu verwenden, um das Verständnis um Vorgänge und Abläufe zu vertiefen. Gleichermaßen ist mir bei der Verwendung eben dieser Technik,
+wenn man es so nennen mag, bewußt, daß die Analogie auch "passt" also wirklich viele Dinge der Analogie gleich oder zumindest 
+sehr ähnlich sein müssen, damit das "Bild passt", was ich versuche zu skizzieren.
+
+Warum sich das lohnt einen Staat bzw. seine Funktionsweise zu begreifen, ist dem Deutschen Volke vielleicht, vielleicht auch
+nicht ganz klar, aber ich gebe zu Bedenken und zu Erinnern, daß wir bereits zwei Weltkriege aktiv "mit betrieben" haben und
+das sich eine Teilschuld dafür niemals komplett wegdeklarieren oder wegleugnen läßt. 
+Warum die Gegenüberstellung mit einem Betriebssystem erfolgt bzw. ich einen Vergleich anstelle, liegt in der Natur der Sache:
+beides ist extrem komplex und sehr schwer als Ganzes zu überschauen, wenn man einigermaßen ehrlich sein mag.
+
+Durch Einsichten in informatische Vorgänge und auch ein tiefes Verständnis über rechtliche und verwaltungstechnische Vorgänge
+durch jeweilige Studien bzw. aktive kommerzielle Bewegungen in beiden Bereichen sind mir also Zusammenhänge geläufig oder auch erst
+im Laufe von Jahren klargeworden.
+
+Diese Zusammenhänge sind in komplexen Umgebungen entweder durch kategorische Studien, wie in der Informatik üblich oder auch durch
+Fuzzing also dem mehr oder minder wahllosen Ausprobieren letztlich erkennbar, wenn der Parameter Zeit eine eher untergeordnete 
+Rolle spielen darf. 
+Man kann sowohl beim Staat als auch bei einem Betriebssystem davon ausgehen, daß diese komplexen Systeme von Menschen mit 
+Motivationen erdacht "oder neudeutsch -designed-" wurden. Dazu später mehr.
+Es sind also Menschen, die sich zu irgendeinem Zeitpunkt über die kontiniierliche Organisation von systemischen Abläufen 
+Gedanken gemacht haben und dies jeweils unterschiedlich formuliert haben:
+
+Analogie.1- Core-Design/ Verfassung/ Prinzipien der Verfassung/allg. Organisation
+
+Vor Erschaffung eines Betriebssystems ist man an bestimmten Stellen an Grenzen gelangt, die eine Auseinandersetzung mit Abläufen 
+im kollektiven Miteinander von ablaufenden Vorgängen auf dem Automaten (Maschinenbau) oder dem Rechenwerk (Informatik).
+Aus der Erkenntnis, daß man die erkannten Grenzen des Systemes nicht durch Anpassungen in die gewünschte "Richtung" bewegen kann,
+ergibt sich die Notwendigkeit des initialen Designs und eben auch bestimmter Spielregeln für das Design des Kernes.
+
+Gleiches gilt für das Staatswesen: Die menschliche Gemeinschaft muß organisiert und orchestriert werden, weil eben ohne Regeln
+es durchaus schnell zu Unfrieden und Irritationen zwischen unterschiedlichen Interessengruppen kommen muß-
+um die Analogie hier ein wenig zu vereinfachen, wende ich die Deutsche Geschichte als Pars-pro-Toto Beispiel an,
+im geschichtlichen Wissen, daß dies ein wenig kurz gegriffen ist. Um die Analogie nun sichtbar zu machen:
+der Krieg war verloren, das Land von fremden Kräften zur Friedenswahrung und möglicherweise auch aus weiteren Interessen heraus
+stellte sich schnell klar, daß weder Frankreich, noch England, noch Russland (damals schon Sowjetunion, ja auch unter Stalin)
+noch die US-Amerikaner diesen Staats selbst managen wollten. Das hätte Annektion und Fremdherrschaft bedeutet und schien nicht 
+opportun oder schlichtweg zu schlecht "händelbar"-
+Nun waren die genannten Siegermächte aber auch nicht daran interessiert, daß es wieder zu einem Fehlverhalten bzw. zu solchen
+"Irritationen" wie dem 2. Weltkrieg von deutschem Boden aus kommen sollte, sagen wir, daß wollten die Siegermächte doch 
+sehr, sehr gerne auch langfristig verhindern.
+
+Auch aus der Erkenntnis und dem Erfahrungen aus anderer Besetzung heraus, kam man wohl nach einigem Verhandeln und Überlegen
+zu dem Gedanken, daß eine neue Verfassung geschaffen werden mußte, denn individuelle Vorschriften und Verordnungen 
+in den jeweiligen Teilbereichen begannen die nach Deutschland auch zurückkehrende Bevölkerung und auch die eigenen Aktivitäten
+im Lande und auch über die Grenzen hinweg durchaus zu stören, bzw. es ließen sich keine dauerhaften Lösungen finden.
+
+Was nun recht schnell geschah, was das initial Design mit dem Propose der Amerikaner und der Briten, den Menschen wieder ein 
+wenig vebindliche Handlungsfähigkeit zurückzugeben, in dem eine Währung, die Deutsche Mark emittiert wurde.
+Dies kann man durchaus mit dem Code of Condukt "übersetzen"- dieser definiert den Umgang beim Designprozess und sollte 
+im günstigsten aller Fälle jede Art von Auseinandersetzungen in geordnete Bahnen lenken und den Entwicklern interne Spielregeln
+auferlegen, an die sich bitte dauerhaft und ernsthaft gehalten wird, weil es sonst zu ärgerlichen Streitereien führen kann
+oder noch unangenehmere Dinge.
+
