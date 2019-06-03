@@ -10,3 +10,9 @@ declaration of language: german, because it is in fact easier for me to write it
 
 Um es zu klären, bzw. zu erklären: ein Staat wird nicht aus dem Nichts geboren,
 ein Betriebssystem auch nicht, aber hier sind die aus meiner Sicht signifikatesten Unterschiede zu benennen:
+
+Staat-Herangehensweise: bei der Erzeugung einer Verfassung werden gangbare Lösungen in menschenlesbarer Form erzeugt
+
+Software-Herangehensweise: bei der Erzeugung einer Betriebssystems werden definierte Lösungen für die meisten 
+Fragestellungen in maschinenlesbarer (Programmcode) Form formuliert und ein breites Spektrum an error-handlern und 
+error-handling-Routinen erzeugt.
