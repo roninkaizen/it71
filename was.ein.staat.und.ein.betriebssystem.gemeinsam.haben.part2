@@ -16,3 +16,7 @@ Staat-Herangehensweise: bei der Erzeugung einer Verfassung werden gangbare Lösu
 Software-Herangehensweise: bei der Erzeugung einer Betriebssystems werden definierte Lösungen für die meisten 
 Fragestellungen in maschinenlesbarer (Programmcode) Form formuliert und ein breites Spektrum an error-handlern und 
 error-handling-Routinen erzeugt.
+
+Hinweis für den Leser: ich habe momentan viel zu tun, damit ist die Fortführung dieses Gedankenspieles Verzögerungen unterworfen,
+die ich nicht komplett dauerhaft überschauen kann.
+Ich bitte um Geduld, und hoffe auf PR´s :)
