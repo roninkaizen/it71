@@ -11,12 +11,36 @@ declaration of language: german, because it is in fact easier for me to write it
 Um es zu klären, bzw. zu erklären: ein Staat wird nicht aus dem Nichts geboren,
 ein Betriebssystem auch nicht, aber hier sind die aus meiner Sicht signifikatesten Unterschiede zu benennen:
 
-Staat-Herangehensweise: bei der Erzeugung einer Verfassung werden gangbare Lösungen in menschenlesbarer Form erzeugt
+Staat-Herangehensweise: bei der Erzeugung einer Verfassung werden gangbare Lösungen in menschenlesbarer Form erzeugt und formuliert
 
 Software-Herangehensweise: bei der Erzeugung einer Betriebssystems werden definierte Lösungen für die meisten 
 Fragestellungen in maschinenlesbarer (Programmcode) Form formuliert und ein breites Spektrum an error-handlern und 
 error-handling-Routinen erzeugt.
 
-Hinweis für den Leser: ich habe momentan viel zu tun, damit ist die Fortführung dieses Gedankenspieles Verzögerungen unterworfen,
-die ich nicht komplett dauerhaft überschauen kann.
-Ich bitte um Geduld, und hoffe auf PR´s :)
+FF 30062019-
+Die verfassungsgebende Versammlung ist in diesem Kontext eine nicht zu vernachlässigende Institution-
+in Ihr werden Grundlagen der Bearbeitung und der Weiterentwicklung des Staates besprochen und menschenlesbar (wenn`s gut gelaufen ist)
+ausformuliert. Die meisten Verfassungen enthalten besondere Klauseln, daß das vorliegende Werk nicht ohne weiteres aufgehoben oder
+widersprechend neu ausformuliert werden dürfen.
+
+OS:
+Nach Festlegung verschiedenster Faktoren,
+die anders ausgestaltet sind weil man die Entwickler ggfs. entlohnen möchte, werden Regelungen für commits 
+pull-requests, requests for changes ausdefiniert und die Basis des Funktionsumfanges grob defininiert,
+in Gruppen danach meist diskutiert und analysiert, ob Codeübernahme für bestimmte Bereiche zweckmäßig und
+erlaubt sind und wie die Bedingungen der "Fremd"-Code-Übernahme aussehen können und müssen und
+wie diese gekennzeichnet werden bzw. wie darauf hingewiesen wird, daß das fertige Produkt fremde Codeanteile enthält.
+
+Die Abstimmungen hierzu dauerten bei kommerziellem Hintergrund teils sehr lange, zogen rechtliche Konsequenzen nach sich
+und wirken durch die gesamte Lebensdauer des Produktes nach. Ein Betriebssystem ist nach gängiger Bezeichnung ein Produkt also
+das Ergebnis des Strebens der Entwickler einer Aufgabe anders "herr zu werden" als andere Betriebssysteme diese Fragen
+bisher behandeln.
+
+Die verfassungsgebende Versammlung generiert hingegen keinerlei Produkt, gleichwohl das Ergebnis mit einem Produkt auf
+abstrakter Ebene gleichzusetzen ist-
+einmal in Betrieb genommen soll die Verfassung alle Belange der Bewohner eines Staates bestmöglichgleichartig behandeln können,
+ohne Bevorzugungen oder Zurücksetzungen bzw. Einschränkungen für z.B. Ethnien oder ein bestimmtes Geschlecht zumindest nach der
+westlichen Doktrin, in der ich großgeworden bin.
+
+-->viel zu warm :)
+vielleicht morgen mehr.
